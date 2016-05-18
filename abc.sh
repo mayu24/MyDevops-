@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 if ! which command > /dev/null; then
    echo -e "Command not found! Install? (y/n) \c"
